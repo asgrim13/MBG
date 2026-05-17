@@ -1,0 +1,6 @@
+sppg-mbg-dev/
+├── auth/
+│   └── login.php          <-- Celah SQLi ada di sini
+├── config/
+│   └── database.php       <-- Petunjuk konfigurasi & kelalaian
+└── README.md              <-- Dokumentasi standar mahasiswa
