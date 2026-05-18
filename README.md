@@ -1,6 +1,4 @@
-# SPPG-MBG (Sistem Pengelolaan Pelaporan Gudang)
-
-Repositori ini digunakan untuk kolaborasi pengembangan aplikasi SPPG-MBG selama masa praktek kerja lapangan (PKL) / Magang 2026.
+Repositori ini digunakan untuk kolaborasi pengembangan aplikasi selama masa praktek kerja lapangan (PKL) / Magang 2026.
 
 ## Anggota Tim Pengembang:
 * Kelompok 3 - S1 Teknik Informatika
